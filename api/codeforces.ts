@@ -4,3 +4,4 @@ export default async function handler(): Promise<Response> {
 }
 
 export const config = { runtime: 'edge' }
+happy birthday let
